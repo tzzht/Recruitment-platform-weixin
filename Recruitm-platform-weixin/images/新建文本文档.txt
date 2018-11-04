@@ -1,0 +1,24 @@
+"tabBar": {
+  "list": [
+    {
+      "pagePath": "pages/publish/publish",
+      "text": "我要发布",
+      "iconPath": "images/01.png",
+      "selectedIconPath": "images/01.png"
+    },
+    {
+      "pagePath": "pages/join/join",
+      "text": "我要参加",
+      "iconPath": "images/02.png",
+      "selectedIconPath": "images/02.png"
+    },
+    {
+      "pagePath": "pages/personal-center/personal-center",
+      "text": "个人中心",
+      "iconPath": "images/03.png",
+      "selectedIconPath": "images/03.png"
+    }
+  ],
+  "color": "#000000",
+  "selectedColor": "#00f"
+},
